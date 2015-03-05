@@ -1,0 +1,104 @@
+//
+// Prefix header for all source files of the 'WooSuiteApp' target in the 'WooSuiteApp' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+
+#define appType @"socialboard"
+#define WebLink @"http://api.socialboard.it"
+
+
+#define RColor 30
+#define Gcolor 30
+#define Bcolor 30
+#define accExpiremsg @"Your account has been expired. Please visit to http://socialboard.it and renew your account."
+#define rememberMsg @"Remember me"
+#define invalidmsg @"invalid email id or pasword"
+#define enterFieldMsg @"Enter all Field"
+#define checkNW @"Please Check your Network Connection"
+#define lgSuccess @"Login successful"
+#define Profilemsg @"profiles"
+#define logoutMsg @"logout"
+#define cancelMsg @"cancel"
+#define logoutTry @"Please logout and try again"
+#define okMsg @"ok"
+#define successMsg @"success"
+#define errorMsg @"error"
+#define groupMsg @"GROUPS"
+#define nomemberMsg @"Group contain no member"
+#define inbosMsg @"Inbox"
+#define feedsMsg @"Feeds"
+#define taskMsg @"Tasks"
+#define scheduleMsg @"Schedule"
+#define searchMsg @"Search"
+#define fbAccMsg @"Facebook Accounts"
+#define twittAccMsg @"Twitter Accounts"
+#define tumblrAccMsg @"Tumblr Accounts"
+#define InstagrmAccMsg @"Instagram Accounts"
+#define YoutubeAccMsg @"Youtube Accounts"
+#define linkdinAccMsg @"Linkedin Accounts"
+#define plzComposeMsg @"Please compose your message"
+#define tooManyChars @"Too many characters"
+#define unknownAcc @"unknown account"
+#define yourMsgNotPosted @"your message has not been posted to"
+#define accountsMsg @"accounts"
+#define msgPosted @"Message posted"
+#define PlztryAgain @"Please try again"
+#define msgSavedtoDraft @"Message saved to draft"
+#define chectConnectionntry @"Please check your internet connection and try again"
+#define urMsgRescheduled @"Your message successfully rescheduled"
+#define SorryMsg @"Sorry"
+#define noMsgMsg @"no messages"
+#define imgSaved @"Image Saved"
+#define couldntImgSaved @"Couldn't save image"
+#define alreadyFavorited @"You have already favorited this status."
+#define InvalidToken @"Invalid or expired token."
+#define cantauntheticateU @"Could not authenticate you"
+#define cantsendmail @"Can't send mail"
+#define msgnoSent @"message has been sent"
+#define savedDraft @"Saved to Draft"
+#define SentMsg @"sent"
+#define failedMsg @"Failed"
+#define commentAdded @"comment successfuly added"
+#define taskUpdated1 @"Task Updated"
+#define configMail @"Please configure mail account first"
+#define taskNtSaved @"Task Not Saved"
+#define plzTryAfterAgain @"Please try after again"
+#define newTaskadded @"New task added"
+#define repliedonTwitter @"Successfully replied on twitter"
+#define noresultMsg @"No Result"
+#define reqTimedOut @"Request timed out"
+#define operationCouldntCompleted @"The operation couldn’t be completed"
+#define notaskAdded @"No task added yet"
+#define commentedTwitter @"Successfully commentted on twitter"
+#define failedtoLoadPage @"Failed to load page"
+#define msgTypeMsg @"Message Types"
+
+
+
+
+
+
+
+ #define SocialAccountType @"SocileAccountType"
+
+#define TwitterConsumerKey @"h4FT0oJ46KBBMwbcifqZMw"
+#define TwitterSecretKey @"yfowGI2g21E2mQHjtHjUvGqkfbI7x26WDCvjiSZOjas"
+
+//#define NSLog(...)   //
+
+#define LinkedinAPIKey @"75glpifv8zy85x"
+#define LinkedinSecretKey @"R5lGtL0Z2gCzBc6F"
+#define RealMLink @"http://api.linkedin.com/"
+
+#endif

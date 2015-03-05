@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  Socioboard
+
+  Created by GBS-ios on 3/2/15.
+  Copyright (c) 2015 Globussoft 1. All rights reserved.
+*/
+
+
+
+"accExpiremsg"="Your account has been expired. Please visit to http://socialboard.it and renew your account.";
+"rememberMsg"="Remember me";
+"invalidmsg"="invalid email id or pasword";
+"enterFieldMsg"="Enter all Field";
+"checkNW"="Please Check your Network Connection";
+"lgSuccess"="Login successful";
+"Profilemsg"="profiles";
+"logoutMsg"="logout";
+"cancelMsg"="cancel";
+"logoutTry"="Please logout and try again";
+"okMsg"="ok";
+"successMsg"="success";
+"errorMsg"="error";
+"groupMsg"="GROUPS";
+"nomemberMsg"="Group contain no member";
+"inbosMsg"="Inbox";
+"feedsMsg"="Feeds";
+"taskMsg"="Tasks";
+"scheduleMsg"="Schedule";
+"searchMsg"="Search";
+"fbAccMsg"="Facebook Accounts";
+"twittAccMsg"="Twitter Accounts";
+"tumblrAccMsg"="Tumblr Accounts";
+"InstagrmAccMsg"="Instagram Accounts";
+"YoutubeAccMsg"="Youtube Accounts";
+"linkdinAccMsg"="Linkedin Accounts";
+"plzComposeMsg"="Please compose your message";
+"tooManyChars"="Too many characters";
+"unknownAcc"="unknown account";
+"yourMsgNotPosted"="your message has not been posted to";
+"accountsMsg"="accounts";
+"msgPosted"="Message posted";
+"PlztryAgain"="Please try again";
+"msgSavedtoDraft"="Message saved to draft";
+"chectConnectionntry"="Please check your internet connection and try again";
+"urMsgRescheduled"="Your message successfully rescheduled";
+"SorryMsg"="Sorry";
+"noMsgMsg"="no messages";
+"imgSaved"="Image Saved";
+"couldntImgSaved"="Couldn't save image";
+"alreadyFavorited"="You have already favorited this status.";
+"InvalidToken"="Invalid or expired token.";
+"cantauntheticateU"="Could not authenticate you";
+"cantsendmail"="Can't send mail";
+"msgnoSent"="message has been sent";
+"savedDraft"="Saved to Draft";
+"SentMsg"="sent";
+"failedMsg"="Failed";
+"commentAdded"="comment successfuly added";
+"taskUpdated1"="Task Updated";
+"configMail"="Please configure mail account first";
+"taskNtSaved"="Task Not Saved";
+"plzTryAfterAgain"="Please try after again";
+"newTaskadded"="New task added";
+"repliedonTwitter"="Successfully replied on twitter";
+"noresultMsg"="No Result";
+"reqTimedOut"="Request timed out";
+"operationCouldntCompleted"="The operation couldn’t be completed";
+"notaskAdded"="No task added yet";
+"commentedTwitter"="Successfully commentted on twitter";
+"failedtoLoadPage"="Failed to load page";
+"msgTypeMsg"="Message Types";
+"composeMsgMsg"="Compose Message";
+"contactMsg"="contacts";
+"replayMsg"="Reply";
+"ProceedMsg"="Proceed";
+"FavoriteMsg"="favorite";
+"NewtaskMsg"="New Task";
+"AccountTypesignMsg"="Account Type";
+"firstNameMsg"="First name";
+"LastNameMsg"="Last name";
+"confirmPswdMsg"="Confirm password";
+"basicMsg"="Basic(free)";
+
+
+

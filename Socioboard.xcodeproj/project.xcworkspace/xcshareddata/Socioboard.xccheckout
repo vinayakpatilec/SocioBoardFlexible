@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54242760-86EC-484B-9931-3B90F93F44DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Socioboard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1DEAEFDF-6B97-4573-A747-4978738EA71C</key>
+		<string>https://subversion.assembla.com/svn/woosuite-iphone-app</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/WooSuiteApp New/Socioboard.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1DEAEFDF-6B97-4573-A747-4978738EA71C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1DEAEFDF-6B97-4573-A747-4978738EA71C</key>
+		<string>https://subversion.assembla.com/svn/woosuite-iphone-app</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://subversion.assembla.com/svn/woosuite-iphone-app/WooSuiteApp%20New/Socioboard.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1DEAEFDF-6B97-4573-A747-4978738EA71C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1DEAEFDF-6B97-4573-A747-4978738EA71C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>New WoosuitIphoneApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
